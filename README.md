@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: [benediktb11@tuta.io](mailto:benediktb11@tuta.io), preferably pgp encrypted
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nereuxofficial&layout=compact&hide_border=true&theme=dark" alt="Nereuxofficial" /></p>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nereuxofficial&layout=compact)](https://github.com/Nereuxofficial/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nereuxofficial&show_icons=true&hide_border=true&theme=dark" alt="Nereuxofficial" /></p>
 
 <!--
