@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: [benediktb11@tuta.io](mailto:benediktb11@tuta.io), preferably pgp encrypted
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi0lii&layout=compact&hide_border=true&theme=dark" alt="Nereuxofficial" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravi0lii&show_icons=true&hide_border=true&theme=dark" alt="Nereuxofficial" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nereuxofficial&layout=compact&hide_border=true&theme=dark" alt="Nereuxofficial" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nereuxofficial&show_icons=true&hide_border=true&theme=dark" alt="Nereuxofficial" /></p>
 
 <!--
 **Nereuxofficial/Nereuxofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
