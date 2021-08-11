@@ -3,7 +3,7 @@
 
 - :penguin: I use Arch btw
 - 🌱 I’m currently learning Rust
-- 📫 How to reach me: [benediktb11@tuta.io](mailto:benediktb11@tuta.io)
+- 📫 How to reach me: [nereux@tuta.io](mailto:nereux@tuta.io)
 - If you want to support my development you can donate to me via monero: ```43VN1SnAGJyYchxghthS71EAn3D7jqjXG6qeshAR7nJUEcnSrpW7KfB4zWbe9JBu87jhAiSjKQBiEFL2RntuDF1W1FtiAv8```
 
 
