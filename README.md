@@ -13,8 +13,5 @@
 <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <br /> <br />
-  
-<details>
-  <summary> Public Repository Stats </summary>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nereuxofficial&show_icons=true&hide_border=true&theme=dark" alt="Github Stats" /></p>
-</details>
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nereuxofficial?cardType=level&theme=onedark)](https://git.io/awesome-stats-card)
