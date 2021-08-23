@@ -14,7 +14,7 @@
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <br /> <br />
 
-![Metrics](https://metrics.lecoq.io/Nereuxofficial?template=classic&config.timezone=Europe%2FBerlin)
+![Github Metrics](https://metrics.lecoq.io/Nereuxofficial?template=classic&config.timezone=Europe%2FBerlin)
   
   
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nereuxofficial?cardType=level&theme=onedark)](https://git.io/awesome-stats-card)
+[![Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nereuxofficial?cardType=level&theme=nightowl)](https://git.io/awesome-stats-card)
