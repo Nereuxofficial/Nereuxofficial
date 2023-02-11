@@ -4,8 +4,8 @@
 - :penguin: I use Arch btw
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: [nereux@tuta.io](mailto:nereux@tuta.io)
+- <a rel="me" href="https://infosec.exchange/@Nereuxofficial">Mastodon</a>
 - If you want to support my development you can donate to me [LiberaPay](https://liberapay.com/Nereuxofficial/) or via Monero: ```43VN1SnAGJyYchxghthS71EAn3D7jqjXG6qeshAR7nJUEcnSrpW7KfB4zWbe9JBu87jhAiSjKQBiEFL2RntuDF1W1FtiAv8```
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
