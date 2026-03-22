@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm Benedikt, a developer from Germany.</h3>
 
-- :penguin: I use Arch btw
+- :penguin: I use CachyOS
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: [nereux@tuta.io](mailto:nereux@tuta.io)
 - <a rel="nofollow me" href="https://infosec.exchange/@Nereuxofficial">Mastodon</a>
