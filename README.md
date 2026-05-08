@@ -2,7 +2,6 @@
 <h3 align="center">I'm Benedikt, a developer from Germany.</h3>
 
 - :penguin: I use CachyOS
-- 🌱 I’m currently learning Rust
 - 📫 How to reach me: [nereux@tuta.io](mailto:nereux@tuta.io)
 - <a href="https://bsky.app/profile/nereuxofficial.bsky.social">BlueSky</a>
 - <a rel="nofollow me" href="https://infosec.exchange/@Nereuxofficial">Mastodon</a>
